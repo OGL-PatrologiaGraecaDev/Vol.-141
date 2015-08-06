@@ -1,0 +1,25 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/141/njp.32101010942868/003.png"; bbox 0 0 1936 3078; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 676 1705 944 1747">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 676 1705 944 1747">
+     <span class='ocr_line' id='line_1_1' title="bbox 676 1705 944 1747; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 676 1705 944 1747; x_wconf 59' lang='lat' dir='ltr'>Dm“</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 526 1184 1088 1834">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 581 1249 1036 1680">
+     <span class='ocr_line' id='line_1_2' title="bbox 698 1249 923 1526; baseline 0.044 -87"><span class='ocrx_word' id='word_1_2' title='bbox 698 1249 923 1526; x_wconf 70' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 581 1379 1036 1541; baseline -0.009 -5"><span class='ocrx_word' id='word_1_3' title='bbox 581 1379 1036 1541; x_wconf 55' lang='grc' dir='ltr'>ης</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 590 1568 1020 1614; baseline 0.007 -3"><span class='ocrx_word' id='word_1_4' title='bbox 590 1568 621 1611; x_wconf 81' lang='grc' dir='ltr'><strong>Ρ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 633 1568 700 1611; x_wconf 86' lang='lat' dir='ltr'>RI</span> <span class='ocrx_word' id='word_1_6' title='bbox 716 1570 761 1611; x_wconf 95' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_7' title='bbox 777 1570 813 1612; x_wconf 90' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_8' title='bbox 828 1570 957 1614; x_wconf 87' lang='lat' dir='ltr'>ETO</span> <span class='ocrx_word' id='word_1_9' title='bbox 973 1572 1020 1614; x_wconf 94' lang='lat' dir='ltr'>N</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 610 1637 997 1680; baseline 0.01 -4"><span class='ocrx_word' id='word_1_10' title='bbox 610 1637 804 1677; x_wconf 82' lang='lat' dir='ltr'><strong>UNIVE</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 818 1639 883 1679; x_wconf 86' lang='lat' dir='ltr'>RS</span> <span class='ocrx_word' id='word_1_12' title='bbox 897 1640 997 1680; x_wconf 86' lang='lat' dir='ltr'>ITY</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 676 1705 944 1747">
+     <span class='ocr_line' id='line_1_6' title="bbox 676 1705 944 1747; baseline 0.022 -5"><span class='ocrx_word' id='word_1_13' title='bbox 676 1705 944 1747; x_wconf 84' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
